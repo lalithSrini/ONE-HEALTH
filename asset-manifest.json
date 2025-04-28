@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/onehealth-NPTEL/static/css/main.d8e9235a.css",
+    "main.js": "/onehealth-NPTEL/static/js/main.25d19c9d.js",
+    "static/js/453.9ca5a318.chunk.js": "/onehealth-NPTEL/static/js/453.9ca5a318.chunk.js",
+    "index.html": "/onehealth-NPTEL/index.html",
+    "main.d8e9235a.css.map": "/onehealth-NPTEL/static/css/main.d8e9235a.css.map",
+    "main.25d19c9d.js.map": "/onehealth-NPTEL/static/js/main.25d19c9d.js.map",
+    "453.9ca5a318.chunk.js.map": "/onehealth-NPTEL/static/js/453.9ca5a318.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8e9235a.css",
+    "static/js/main.25d19c9d.js"
+  ]
+}
