@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ONE-HEALTH/static/css/main.d8e9235a.css",
-    "main.js": "/ONE-HEALTH/static/js/main.c624c11d.js",
+    "main.js": "/ONE-HEALTH/static/js/main.f0215843.js",
     "static/js/453.9ca5a318.chunk.js": "/ONE-HEALTH/static/js/453.9ca5a318.chunk.js",
     "index.html": "/ONE-HEALTH/index.html",
     "main.d8e9235a.css.map": "/ONE-HEALTH/static/css/main.d8e9235a.css.map",
-    "main.c624c11d.js.map": "/ONE-HEALTH/static/js/main.c624c11d.js.map",
+    "main.f0215843.js.map": "/ONE-HEALTH/static/js/main.f0215843.js.map",
     "453.9ca5a318.chunk.js.map": "/ONE-HEALTH/static/js/453.9ca5a318.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8e9235a.css",
-    "static/js/main.c624c11d.js"
+    "static/js/main.f0215843.js"
   ]
 }
